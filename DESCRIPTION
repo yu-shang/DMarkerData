@@ -1,0 +1,13 @@
+Package: DMarkerData
+Version: 1.0
+Date: 2015-05-27
+Author: Yu Shang, Qiong Yu, Wei Du, Ying Xu
+Maintainer: Yu Shang <yushang@uga.edu>, Qiong Yu <yuqiong@uga.edu>, Wei Du <weidu@uga.edu>
+Correspond: Ying Xu <xyn@bmb.uga.edu>
+Title: DMarkerData
+Description: DMarkerData is a package for sequences predict in DMarker package.
+Type: Package
+License: GPL (>= 2)
+LinkingTo: Rcpp
+LazyLoad: yes
+LazyData: true

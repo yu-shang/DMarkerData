@@ -1,0 +1,4 @@
+demo = function()
+{
+  data(proseq);
+}
