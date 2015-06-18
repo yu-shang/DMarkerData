@@ -8,6 +8,5 @@ Title: DMarkerData
 Description: DMarkerData is a package for sequences predict in DMarker package.
 Type: Package
 License: GPL (>= 2)
-LinkingTo: Rcpp
 LazyLoad: yes
 LazyData: true
